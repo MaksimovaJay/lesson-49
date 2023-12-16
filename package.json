@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.2",
+    "typescript": "^5.3.3"
+  },
+  "name": "49-lesson-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
